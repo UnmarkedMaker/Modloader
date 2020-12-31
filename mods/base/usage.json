@@ -1,0 +1,7 @@
+{
+    "modName" : "usage",
+    "help"    : "Displays usage of commands supplied",
+    "usage"   : "<usage [args]>",
+    "region"  : "official",
+    "list"    : true
+}

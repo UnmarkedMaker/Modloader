@@ -1,0 +1,7 @@
+{
+    "modName" : "test",
+    "help"    : "Dummy module ",
+    "usage"   : "<test>",
+    "region"  : "official",
+    "list"    : true
+}

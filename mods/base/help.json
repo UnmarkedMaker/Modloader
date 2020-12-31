@@ -1,0 +1,7 @@
+{
+    "modName" : "help",
+    "help"    : "Display help",
+    "usage"   : "<help [args]>",
+    "region"  : "official",
+    "list"    : true
+}
