@@ -1,0 +1,7 @@
+{
+    "modName" : "checkloading",
+    "help"    : "Check whether the modulules can be run.",
+    "usage"   : "<checkloading [args]>",
+    "region"  : "official",
+    "list"    : true
+}
